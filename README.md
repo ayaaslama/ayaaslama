@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aya Slama</h1>
-<h3 align="center">A passionate flutter developer</h3>
+<h3 align="center">A Passionate Flutter Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4283b367578677.5b3e5c21edefc.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaaslama&label=Profile%20views&color=0e75b6&style=flat" alt="ayaaslama" /> </p>
